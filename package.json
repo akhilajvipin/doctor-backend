@@ -1,0 +1,14 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "backend for doctors app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
